@@ -1,5 +1,8 @@
 # wordpress
 
+![image](https://user-images.githubusercontent.com/34639977/216816665-91687c81-c6ab-4d8e-9a1a-77b3744ae838.png)
+
+
 
 # Two Ec2 Linux instances one acting as web server and the pther acting as db server
 
