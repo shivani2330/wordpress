@@ -1,6 +1,6 @@
 #! /bin/bash
 
-hdd="/dev/xvdf /dev/xvdg /dev/xvdf"
+hdd="/dev/xvdb /dev/xvdc /dev/xvdd"
 for i in $hdd;do
 echo "n
 p
