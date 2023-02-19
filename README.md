@@ -106,3 +106,5 @@
 # In the web server add 
 
 # vi wp-config.php Add the database name 
+
+https://askubuntu.com/questions/1108475/automate-the-mysql-secure-installation-using-shell-script
